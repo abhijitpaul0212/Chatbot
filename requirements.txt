@@ -12,7 +12,7 @@ click==7.1.2
 colorama==0.4.1
 cx-Oracle==5.3
 cycler==0.10.0
-Django==2.1.7
+Django==2.2.10
 dnspython==1.16.0
 docx==0.2.4
 docx2txt==0.7
