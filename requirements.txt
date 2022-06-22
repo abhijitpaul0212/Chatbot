@@ -44,7 +44,7 @@ mccabe==0.6.1
 more-itertools==7.0.0
 mysql-connector-python==8.0.19
 nltk==3.5
-numpy==1.16.3
+numpy==1.22.0
 oauthlib==3.1.0
 openpyxl==2.4.6
 opt-einsum==3.2.1
